@@ -1,0 +1,9 @@
+/*Container text color*/
+.container{
+    color: black;
+}
+
+/* Background Style for Card Headers*/
+.card-header{
+    background-color: white;
+}
